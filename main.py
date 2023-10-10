@@ -1,3 +1,4 @@
+import os
 import time
 import requests
 from bs4 import BeautifulSoup
@@ -72,7 +73,10 @@ def get_story_list(soup: BeautifulSoup, category, url: str):
 
 
 def save_as_json(dictionary_list, name):
-    with open(f"{name}.json", "w") as outfile:
+    directory = os.getcwd() + "/stories"
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    with open(directory + f"/{name}.json", "w") as outfile:
         # ensure_ascii=False to support Tamil string
         json.dump(dictionary_list, outfile, ensure_ascii=False, indent=2)
 
