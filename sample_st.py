@@ -36,6 +36,7 @@ def scrape_content(stories: list):
             req = requests.get(story["url"], headers)
             soup = bs4.BeautifulSoup(req.content, "html.parser")
             post_container = soup.find("div", "print-div")
+            print(post_container)
             text_elements = []
             for element in post_container:
                 # Texts are not inside any tags. Others such as Google ads and author names are inside tags

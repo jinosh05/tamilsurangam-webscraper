@@ -15,59 +15,64 @@ headers = {
 urls = [
     {
         "id": 1,
-        "category": "mulla_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/mulla_stories/index.html",
+        "category": "purananooru",
+        "url": "https://www.tamilsurangam.in/literatures/ettuthogai/purananooru/index.html",
     },
     {
         "id": 2,
-        "category": "brahmartha_guru_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/brahmartha_guru_stories/index.html",
-    },
-    {
-        "id": 3,
-        "category": "akbar_birbal_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/akbar_birbal_stories/index.html",
-    },
-    {
-        "id": 4,
-        "category": "aesop_fables_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/aesop_fables/index.html",
-    },
-    {
-        "id": 5,
-        "category": "mariyadai_raman_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/mariyadai_raman_stories/index.html",
-    },
-    {
-        "id": 6,
-        "category": "short_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/short_stories/index.html",
-    },
-    {
-        "id": 7,
-        "category": "zen_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/zen_stories/index.html",
-    },
-    {
-        "id": 8,
-        "category": "oshos_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/oshos_stories/index.html",
-    },
-    {
-        "id": 9,
-        "category": "panchatantra_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/panchatantra_stories/index.html",
-    },
-    {
-        "id": 10,
-        "category": "multy_taste_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/multy_taste_stories/index.html",
-    },
-    {
-        "id": 11,
-        "category": "thenali_raman_stories",
-        "url": "https://www.tamilsurangam.in/general_knowledge/thenali_raman_stories/index.html",
-    },
+        "category": "agananooru",
+        "url": "https://www.tamilsurangam.in/literatures/ettuthogai/agananooru/index.html",
+    }
+    # {
+    #     "id": 2,
+    #     "category": "brahmartha_guru_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/brahmartha_guru_stories/index.html",
+    # },
+    # {
+    #     "id": 3,
+    #     "category": "akbar_birbal_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/akbar_birbal_stories/index.html",
+    # },
+    # {
+    #     "id": 4,
+    #     "category": "aesop_fables_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/aesop_fables/index.html",
+    # },
+    # {
+    #     "id": 5,
+    #     "category": "mariyadai_raman_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/mariyadai_raman_stories/index.html",
+    # },
+    # {
+    #     "id": 6,
+    #     "category": "short_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/short_stories/index.html",
+    # },
+    # {
+    #     "id": 7,
+    #     "category": "zen_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/zen_stories/index.html",
+    # },
+    # {
+    #     "id": 8,
+    #     "category": "oshos_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/oshos_stories/index.html",
+    # },
+    # {
+    #     "id": 9,
+    #     "category": "panchatantra_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/panchatantra_stories/index.html",
+    # },
+    # {
+    #     "id": 10,
+    #     "category": "multy_taste_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/multy_taste_stories/index.html",
+    # },
+    # {
+    #     "id": 11,
+    #     "category": "thenali_raman_stories",
+    #     "url": "https://www.tamilsurangam.in/general_knowledge/thenali_raman_stories/index.html",
+    # },
 ]
 
 
@@ -83,8 +88,13 @@ def run_scrapper(urls: list):
 
 def get_story_list(soup: BeautifulSoup, category, url: str):
     base_url = url.split("index.html")[0]
+
+    # print(soup.find('div', 'print-div').find_all('li'))
+
     stories_list = []
-    list_items = soup.find("div", "print-div").blockquote.ul.find_all("li")
+    # list_items = soup.find("div", "print-div").blockquote.ul.find_all("li")
+
+    list_items = soup.find("div", "print-div").find_all("li")
     for index, item in enumerate(list_items):
         stories_list.append(
             {
