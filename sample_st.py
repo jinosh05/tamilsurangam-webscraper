@@ -36,14 +36,26 @@ def scrape_content(stories: list):
             req = requests.get(story["url"], headers)
             soup = bs4.BeautifulSoup(req.content, "html.parser")
             post_container = soup.find("div", "print-div")
-            print(post_container)
             text_elements = []
+            if post_container:
+                color_blue_span = post_container.find("span", class_="color-blue")
+                if color_blue_span:
+                    cleaned_text = color_blue_span.text.replace("\r", "").replace("                ", "\n").strip()
+                    story["information"] = cleaned_text
+                table = post_container.find("table")
+                if table:
+                  poem_text = ""
+                  rows = table.find_all("tr")
+                  for row in rows:
+                    strong_tag = row.find("strong")
+                    if strong_tag:
+                      poem_text += strong_tag.text + "\n"
+                      cleaned_poem = poem_text.replace("\r", "").replace("                ", "\n").strip()
+                  story["poem"] = cleaned_poem.strip() # Remove trailing newline.
+
             for element in post_container:
-                # Texts are not inside any tags. Others such as Google ads and author names are inside tags
-                # https://stackoverflow.com/questions/18280506/how-do-i-ignore-tags-while-getting-the-string-of-a-beautiful-soup-element
                 if not isinstance(element, bs4.Tag):
-                    line = element.strip("\n").strip("\t").strip("\r").strip()
-                    # To handle empty lines
+                    line = element.strip()
                     if not len(line) == 0:
                         text_elements.append(line)
             content = " ".join(text_elements)

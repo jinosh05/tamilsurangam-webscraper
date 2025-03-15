@@ -1,0 +1,97 @@
+Sat Mar 15 14:20:20 2025 - purananooru 2
+Traceback (most recent call last):
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connection.py", line 507, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 1428, in getresponse
+    response.begin()
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/urllib3/connection.py", line 507, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 1428, in getresponse
+    response.begin()
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jinosh/Programming/Youtube/tamilsurangam-webscraper/sample_st.py", line 36, in scrape_content
+    req = requests.get(story["url"], headers)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jinosh/miniconda/lib/python3.12/site-packages/requests/adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Sat Mar 15 14:27:34 2025 - purananooru 1
+Traceback (most recent call last):
+  File "/Users/jinosh/Programming/Youtube/tamilsurangam-webscraper/sample_st.py", line 47, in scrape_content
+    if not len(line) == 0:
+               ^^^^
+NameError: name 'line' is not defined
+Sat Mar 15 14:27:45 2025 - purananooru 2
+Traceback (most recent call last):
+  File "/Users/jinosh/Programming/Youtube/tamilsurangam-webscraper/sample_st.py", line 47, in scrape_content
+    if not len(line) == 0:
+               ^^^^
+NameError: name 'line' is not defined
+Sat Mar 15 15:04:14 2025 - purananooru 1
+Traceback (most recent call last):
+  File "/Users/jinosh/Programming/Youtube/tamilsurangam-webscraper/sample_st.py", line 74, in scrape_content
+    cleaned_poem = poem_text.text.replace("\r", "").replace("                ", "\n").strip()
+                   ^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'text'
+Sat Mar 15 15:04:24 2025 - purananooru 2
+Traceback (most recent call last):
+  File "/Users/jinosh/Programming/Youtube/tamilsurangam-webscraper/sample_st.py", line 74, in scrape_content
+    cleaned_poem = poem_text.text.replace("\r", "").replace("                ", "\n").strip()
+                   ^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'text'
