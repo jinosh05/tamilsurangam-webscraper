@@ -13,13 +13,13 @@ headers = {
 }
 
 urls = [
+    # {
+    #     "id": 1,
+    #     "category": "purananooru",
+    #     "url": "https://www.tamilsurangam.in/literatures/ettuthogai/purananooru/index.html",
+    # },
     {
         "id": 1,
-        "category": "purananooru",
-        "url": "https://www.tamilsurangam.in/literatures/ettuthogai/purananooru/index.html",
-    },
-    {
-        "id": 2,
         "category": "agananooru",
         "url": "https://www.tamilsurangam.in/literatures/ettuthogai/agananooru/index.html",
     }

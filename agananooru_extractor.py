@@ -35,35 +35,28 @@ def scrape_content(stories: list):
         try:
             req = requests.get(story["url"], headers)
             soup = bs4.BeautifulSoup(req.content, "html.parser")
+            span_tag = soup.find('span', class_='color-blue')
+            if span_tag:
+                extracted_text = span_tag.get_text(
+                    strip=True, separator=" ")
+                single_line_text = extracted_text.replace(
+                    '\n', ' ').replace('\r', '').strip().replace('  ', ' ')
+                story["information"] = single_line_text
             post_container = soup.find("div", "print-div")
-            text_elements = []
             if post_container:
-                color_blue_span = post_container.find(
-                    "span", class_="color-blue")
-                if color_blue_span:
-                    cleaned_text = color_blue_span.text.replace(
-                        "\r", "").replace("                ", "\n").strip()
-                    story["information"] = cleaned_text
                 table = post_container.find("table")
                 if table:
                     poem_text = ""
                     rows = table.find_all("tr")
                     for row in rows:
-                        strong_tag = row.find("strong")
-                        if strong_tag:
-                            poem_text += strong_tag.text + "\n"
-                            cleaned_poem = poem_text.replace("\r", "").replace(
-                                "                ", "\n").strip()
-                    # Remove trailing newline.
-                    story["poem"] = cleaned_poem.strip()
+                        cells = row.find_all('td')
+                        if cells:
+                            poem_text += cells[0].get_text(
+                                separator=" ", strip=False)
+                    cleaned_poem = poem_text.replace("\r", "").replace(
+                        "                ", "\n").strip().replace("\n\n", "\n")
 
-            for element in post_container:
-                if not isinstance(element, bs4.Tag):
-                    line = element.strip()
-                    if not len(line) == 0:
-                        text_elements.append(line)
-            content = " ".join(text_elements)
-            story["meaning"] = content
+                    story["poem"] = cleaned_poem.strip()
             save_as_json(story["story_category"], stories)
         except Exception:
             dump_error(f"{story['story_category']} {index+1}")
