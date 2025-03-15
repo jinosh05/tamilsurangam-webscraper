@@ -38,20 +38,24 @@ def scrape_content(stories: list):
             post_container = soup.find("div", "print-div")
             text_elements = []
             if post_container:
-                color_blue_span = post_container.find("span", class_="color-blue")
+                color_blue_span = post_container.find(
+                    "span", class_="color-blue")
                 if color_blue_span:
-                    cleaned_text = color_blue_span.text.replace("\r", "").replace("                ", "\n").strip()
+                    cleaned_text = color_blue_span.text.replace(
+                        "\r", "").replace("                ", "\n").strip()
                     story["information"] = cleaned_text
                 table = post_container.find("table")
                 if table:
-                  poem_text = ""
-                  rows = table.find_all("tr")
-                  for row in rows:
-                    strong_tag = row.find("strong")
-                    if strong_tag:
-                      poem_text += strong_tag.text + "\n"
-                      cleaned_poem = poem_text.replace("\r", "").replace("                ", "\n").strip()
-                  story["poem"] = cleaned_poem.strip() # Remove trailing newline.
+                    poem_text = ""
+                    rows = table.find_all("tr")
+                    for row in rows:
+                        strong_tag = row.find("strong")
+                        if strong_tag:
+                            poem_text += strong_tag.text + "\n"
+                            cleaned_poem = poem_text.replace("\r", "").replace(
+                                "                ", "\n").strip()
+                    # Remove trailing newline.
+                    story["poem"] = cleaned_poem.strip()
 
             for element in post_container:
                 if not isinstance(element, bs4.Tag):
@@ -63,7 +67,7 @@ def scrape_content(stories: list):
             save_as_json(story["story_category"], stories)
         except Exception:
             dump_error(f"{story['story_category']} {index+1}")
-        time.sleep(10)
+        time.sleep(5)
 
 
 def load_json(file):

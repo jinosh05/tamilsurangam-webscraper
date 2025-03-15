@@ -95,3 +95,1443 @@ Traceback (most recent call last):
     cleaned_poem = poem_text.text.replace("\r", "").replace("                ", "\n").strip()
                    ^^^^^^^^^^^^^^
 AttributeError: 'str' object has no attribute 'text'
+Sat Mar 15 16:58:31 2025 - agananooru 1
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:58:37 2025 - agananooru 2
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:58:43 2025 - agananooru 3
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:58:49 2025 - agananooru 4
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:58:55 2025 - agananooru 5
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:01 2025 - agananooru 6
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:07 2025 - agananooru 7
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:12 2025 - agananooru 8
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:18 2025 - agananooru 9
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:24 2025 - agananooru 10
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:29 2025 - agananooru 11
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:35 2025 - agananooru 12
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:41 2025 - agananooru 13
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:47 2025 - agananooru 14
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:53 2025 - agananooru 15
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 16:59:58 2025 - agananooru 16
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:04 2025 - agananooru 17
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:10 2025 - agananooru 18
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:16 2025 - agananooru 19
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:22 2025 - agananooru 20
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:28 2025 - agananooru 21
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:34 2025 - agananooru 22
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:40 2025 - agananooru 23
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:45 2025 - agananooru 24
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:51 2025 - agananooru 25
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:00:56 2025 - agananooru 26
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:02 2025 - agananooru 27
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:07 2025 - agananooru 28
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:13 2025 - agananooru 29
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:19 2025 - agananooru 30
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:24 2025 - agananooru 31
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:30 2025 - agananooru 32
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:36 2025 - agananooru 33
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:41 2025 - agananooru 34
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:47 2025 - agananooru 35
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:53 2025 - agananooru 36
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:01:58 2025 - agananooru 37
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:04 2025 - agananooru 38
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:10 2025 - agananooru 39
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:16 2025 - agananooru 40
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:22 2025 - agananooru 41
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:28 2025 - agananooru 42
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:33 2025 - agananooru 43
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:39 2025 - agananooru 44
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:44 2025 - agananooru 45
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:50 2025 - agananooru 46
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:02:56 2025 - agananooru 47
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:01 2025 - agananooru 48
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:07 2025 - agananooru 49
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:12 2025 - agananooru 50
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:18 2025 - agananooru 51
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:25 2025 - agananooru 52
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:30 2025 - agananooru 53
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:36 2025 - agananooru 54
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:41 2025 - agananooru 55
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:47 2025 - agananooru 56
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:53 2025 - agananooru 57
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:03:59 2025 - agananooru 58
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:05 2025 - agananooru 59
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:10 2025 - agananooru 60
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:17 2025 - agananooru 61
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:22 2025 - agananooru 62
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:28 2025 - agananooru 63
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:34 2025 - agananooru 64
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:39 2025 - agananooru 65
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:45 2025 - agananooru 66
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:51 2025 - agananooru 67
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:04:56 2025 - agananooru 68
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:02 2025 - agananooru 69
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:08 2025 - agananooru 70
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:14 2025 - agananooru 71
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:19 2025 - agananooru 72
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:25 2025 - agananooru 73
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:31 2025 - agananooru 74
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:37 2025 - agananooru 75
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:43 2025 - agananooru 76
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:48 2025 - agananooru 77
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:05:54 2025 - agananooru 78
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:00 2025 - agananooru 79
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:06 2025 - agananooru 80
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:11 2025 - agananooru 81
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:17 2025 - agananooru 82
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:22 2025 - agananooru 83
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:28 2025 - agananooru 84
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:34 2025 - agananooru 85
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:39 2025 - agananooru 86
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:45 2025 - agananooru 87
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:50 2025 - agananooru 88
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:06:56 2025 - agananooru 89
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:02 2025 - agananooru 90
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:07 2025 - agananooru 91
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:13 2025 - agananooru 92
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:19 2025 - agananooru 93
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:25 2025 - agananooru 94
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:31 2025 - agananooru 95
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:37 2025 - agananooru 96
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:47 2025 - agananooru 97
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:53 2025 - agananooru 98
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:07:59 2025 - agananooru 99
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:05 2025 - agananooru 100
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:10 2025 - agananooru 101
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:16 2025 - agananooru 102
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:23 2025 - agananooru 103
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:29 2025 - agananooru 104
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:34 2025 - agananooru 105
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:40 2025 - agananooru 106
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:46 2025 - agananooru 107
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:52 2025 - agananooru 108
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:08:57 2025 - agananooru 109
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:03 2025 - agananooru 110
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:09 2025 - agananooru 111
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:14 2025 - agananooru 112
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:20 2025 - agananooru 113
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:26 2025 - agananooru 114
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:32 2025 - agananooru 115
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:37 2025 - agananooru 116
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:43 2025 - agananooru 117
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:49 2025 - agananooru 118
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:09:54 2025 - agananooru 119
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:00 2025 - agananooru 120
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:05 2025 - agananooru 121
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:11 2025 - agananooru 122
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:17 2025 - agananooru 123
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:22 2025 - agananooru 124
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:28 2025 - agananooru 125
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:33 2025 - agananooru 126
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:39 2025 - agananooru 127
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:45 2025 - agananooru 128
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:50 2025 - agananooru 129
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:10:56 2025 - agananooru 130
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:02 2025 - agananooru 131
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:08 2025 - agananooru 132
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:13 2025 - agananooru 133
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:19 2025 - agananooru 134
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:25 2025 - agananooru 135
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:31 2025 - agananooru 136
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:36 2025 - agananooru 137
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:42 2025 - agananooru 138
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:49 2025 - agananooru 139
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:11:55 2025 - agananooru 140
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:00 2025 - agananooru 141
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:06 2025 - agananooru 142
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:12 2025 - agananooru 143
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:18 2025 - agananooru 144
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:23 2025 - agananooru 145
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:29 2025 - agananooru 146
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:35 2025 - agananooru 147
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:41 2025 - agananooru 148
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:47 2025 - agananooru 149
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:52 2025 - agananooru 150
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:12:58 2025 - agananooru 151
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:04 2025 - agananooru 152
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:10 2025 - agananooru 153
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:16 2025 - agananooru 154
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:22 2025 - agananooru 155
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:28 2025 - agananooru 156
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:34 2025 - agananooru 157
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:41 2025 - agananooru 158
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:47 2025 - agananooru 159
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:53 2025 - agananooru 160
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:13:58 2025 - agananooru 161
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:04 2025 - agananooru 162
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:10 2025 - agananooru 163
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:16 2025 - agananooru 164
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:22 2025 - agananooru 165
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:28 2025 - agananooru 166
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:34 2025 - agananooru 167
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:39 2025 - agananooru 168
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:45 2025 - agananooru 169
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:51 2025 - agananooru 170
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:14:57 2025 - agananooru 171
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:03 2025 - agananooru 172
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:08 2025 - agananooru 173
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:14 2025 - agananooru 174
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:20 2025 - agananooru 175
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:25 2025 - agananooru 176
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:31 2025 - agananooru 177
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:37 2025 - agananooru 178
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:43 2025 - agananooru 179
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:49 2025 - agananooru 180
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:15:55 2025 - agananooru 181
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:01 2025 - agananooru 182
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:07 2025 - agananooru 183
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:12 2025 - agananooru 184
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:18 2025 - agananooru 185
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:24 2025 - agananooru 186
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:30 2025 - agananooru 187
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:36 2025 - agananooru 188
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:47 2025 - agananooru 189
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:53 2025 - agananooru 190
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:16:58 2025 - agananooru 191
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:04 2025 - agananooru 192
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:10 2025 - agananooru 193
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:15 2025 - agananooru 194
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:21 2025 - agananooru 195
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:27 2025 - agananooru 196
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:33 2025 - agananooru 197
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:39 2025 - agananooru 198
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:45 2025 - agananooru 199
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:50 2025 - agananooru 200
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:17:56 2025 - agananooru 201
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:02 2025 - agananooru 202
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:08 2025 - agananooru 203
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:14 2025 - agananooru 204
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:19 2025 - agananooru 205
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:25 2025 - agananooru 206
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:31 2025 - agananooru 207
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:37 2025 - agananooru 208
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:43 2025 - agananooru 209
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:49 2025 - agananooru 210
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:18:55 2025 - agananooru 211
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:00 2025 - agananooru 212
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:06 2025 - agananooru 213
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:12 2025 - agananooru 214
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:17 2025 - agananooru 215
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:23 2025 - agananooru 216
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:29 2025 - agananooru 217
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:35 2025 - agananooru 218
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:40 2025 - agananooru 219
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:46 2025 - agananooru 220
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:53 2025 - agananooru 221
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:19:59 2025 - agananooru 222
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:04 2025 - agananooru 223
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:10 2025 - agananooru 224
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:16 2025 - agananooru 225
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:21 2025 - agananooru 226
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:27 2025 - agananooru 227
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:32 2025 - agananooru 228
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:38 2025 - agananooru 229
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:44 2025 - agananooru 230
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:50 2025 - agananooru 231
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:20:56 2025 - agananooru 232
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:01 2025 - agananooru 233
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:07 2025 - agananooru 234
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:13 2025 - agananooru 235
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:19 2025 - agananooru 236
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:25 2025 - agananooru 237
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:31 2025 - agananooru 238
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:37 2025 - agananooru 239
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:43 2025 - agananooru 240
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:49 2025 - agananooru 241
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:21:55 2025 - agananooru 242
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:00 2025 - agananooru 243
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:06 2025 - agananooru 244
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:12 2025 - agananooru 245
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:18 2025 - agananooru 246
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:23 2025 - agananooru 247
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:29 2025 - agananooru 248
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:35 2025 - agananooru 249
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:41 2025 - agananooru 250
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:47 2025 - agananooru 251
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:53 2025 - agananooru 252
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:22:59 2025 - agananooru 253
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:05 2025 - agananooru 254
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:11 2025 - agananooru 255
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:17 2025 - agananooru 256
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:23 2025 - agananooru 257
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:29 2025 - agananooru 258
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:35 2025 - agananooru 259
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:41 2025 - agananooru 260
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:47 2025 - agananooru 261
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:53 2025 - agananooru 262
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:23:59 2025 - agananooru 263
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:04 2025 - agananooru 264
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:10 2025 - agananooru 265
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:16 2025 - agananooru 266
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:21 2025 - agananooru 267
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:27 2025 - agananooru 268
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:33 2025 - agananooru 269
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:38 2025 - agananooru 270
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:44 2025 - agananooru 271
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:50 2025 - agananooru 272
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:24:56 2025 - agananooru 273
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:01 2025 - agananooru 274
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:07 2025 - agananooru 275
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:13 2025 - agananooru 276
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:19 2025 - agananooru 277
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:25 2025 - agananooru 278
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:31 2025 - agananooru 279
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:37 2025 - agananooru 280
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:43 2025 - agananooru 281
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:48 2025 - agananooru 282
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:25:54 2025 - agananooru 283
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:26:00 2025 - agananooru 284
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:26:06 2025 - agananooru 285
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:26:12 2025 - agananooru 286
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:26:17 2025 - agananooru 287
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
+Sat Mar 15 17:26:23 2025 - agananooru 288
+Traceback (most recent call last):
+  File "/home/jinosh/Programming/Youtube/tamilsurangam-webscraper/story_content.py", line 58, in scrape_content
+    story["poem"] = cleaned_poem.strip()
+UnboundLocalError: local variable 'cleaned_poem' referenced before assignment
